@@ -53,4 +53,6 @@ export class HomeComponent implements OnInit {
         }
       });
   }
+
+  // Fare 2 chiamate consequenziali con .pipe(switchMap()) di rxjs
 }
